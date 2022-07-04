@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 01, 2022 at 05:09 PM
+-- Generation Time: Jul 04, 2022 at 03:52 AM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 7.4.21
 
@@ -73,43 +73,6 @@ INSERT INTO `kamar_gambar` (`id_kamar_gambar`, `nama_kamar_gambar`, `id_kamar`) 
 (8, 'nama_kamar_gambar1574464228.jpg', 6),
 (9, 'nama_kamar_gambar1574464551.jpg', 2),
 (10, 'nama_kamar_gambar1574692697.jpg', 7),
-(11, 'nama_kamar_gambar1574692704.jpg', 8),
-(12, 'nama_kamar_gambar1574692715.jpg', 9),
-(13, 'nama_kamar_gambar1574692739.jpg', 10),
-(14, 'nama_kamar_gambar1574700111.jpg', 11),
-(15, 'nama_kamar_gambar1574700126.jpg', 12),
-(16, 'nama_kamar_gambar1574700138.jpg', 13),
-(17, 'nama_kamar_gambar1574700156.jpg', 14),
-(18, 'nama_kamar_gambar1574700164.jpg', 15),
-(19, 'nama_kamar_gambar1574700173.jpg', 16),
-(20, 'nama_kamar_gambar1574700183.jpg', 17),
-(21, 'nama_kamar_gambar1574700195.jpeg', 18),
-(22, 'nama_kamar_gambar1574700204.jpg', 19),
-(23, 'nama_kamar_gambar1574700212.jpg', 20),
-(24, 'nama_kamar_gambar1574700221.jpg', 21),
-(25, 'nama_kamar_gambar1574700229.jpg', 22),
-(26, 'nama_kamar_gambar1574700237.jpg', 23),
-(27, 'nama_kamar_gambar1574700247.jpg', 24),
-(28, 'nama_kamar_gambar1574700254.jpg', 25),
-(29, 'nama_kamar_gambar1574700263.jpg', 26),
-(30, 'nama_kamar_gambar1574700274.jpg', 27),
-(31, 'nama_kamar_gambar1574700281.jpg', 28),
-(32, 'nama_kamar_gambar1574700289.jpg', 29),
-(33, 'nama_kamar_gambar1574700298.jpeg', 30),
-(34, 'nama_kamar_gambar1574700306.jpeg', 31),
-(35, 'nama_kamar_gambar1574700314.jpg', 32),
-(36, 'nama_kamar_gambar1574700322.jpg', 33),
-(37, 'nama_kamar_gambar1574700331.jpg', 34),
-(38, 'nama_kamar_gambar1574700338.jpg', 35),
-(39, 'nama_kamar_gambar1574700345.jpg', 36),
-(40, 'nama_kamar_gambar1574700353.jpg', 37),
-(41, 'nama_kamar_gambar1574700360.jpg', 38),
-(42, 'nama_kamar_gambar1574700367.jpg', 39),
-(43, 'nama_kamar_gambar1574700377.jpg', 40),
-(44, 'nama_kamar_gambar1574700387.jpg', 41),
-(45, 'nama_kamar_gambar1574700395.jpg', 42),
-(46, 'nama_kamar_gambar1574700403.jpg', 43),
-(47, 'nama_kamar_gambar1574700410.jpg', 44),
 (48, 'nama_kamar_gambar1574752414.jpg', 1),
 (49, 'nama_kamar_gambar1574752424.jpg', 1);
 
@@ -163,7 +126,33 @@ INSERT INTO `member_token` (`id`, `id_pendaftar`, `auth_key`) VALUES
 (22, 4, 'doU6yn59DeGBlysKEDiXjTqkfnzkAynbhTDucDOkjrE5FuWQJfhV48kJasADL5dFHWNVeicG3srqvZloiWsnadaWMcTUAsUcsKWG'),
 (23, 4, 'roKnXxZNUEgqpVjWjBsAesrIXQcXkmvndybfsunVdonoxbsp8MebPasITOyUxVCPfpSAZoy2hqd09cFyKDfsg6XZ3apnAiFF2XOO'),
 (24, 4, 'siwd4MjXpn5Luklkmz46bAgPs83drsdsZZrbRWmLk5D572WeBbH2zYJIGZdJ0IEyvj0gdCcGgA79OkV6m6zsr2GRuOQdYXI1S86f'),
-(25, 4, '2Kr3aWX41tjddaHrmE1HPry5kcWT3qOr3QsvY6x4VRtVC5Ue5tT52sLIvqA7kXbqgNnLl75scJUZJ6BupvHDsCxo30kFEgzW8WR9');
+(25, 4, '2Kr3aWX41tjddaHrmE1HPry5kcWT3qOr3QsvY6x4VRtVC5Ue5tT52sLIvqA7kXbqgNnLl75scJUZJ6BupvHDsCxo30kFEgzW8WR9'),
+(26, 4, 'fl96i74LJHYefQRyuemV0x7YbHqW4SRVRwxsehnXHufbjzAbdWVDUSRXdSJbgkUXmQD1SdGEzxmsiqWOjGsG7h6MaY7QZcA5sPTA'),
+(27, 4, 'LNAbAsXaH7lopsDlFORsrIIi513iv5DSRU3gQ2gP5IYxAuHIdZb4Vdy8LdBVQdMwGbsfDntBX7dyfrLLLOdVvsW5HVGvsfxTTTFp'),
+(28, 4, 'gE4sIb3sFOLrrueJbrKleRiUiKADUbeOr91zdNoswQ9eEOHUPHDLxFNYutcU2AlYj3f5Fg5LidtRu7VgVUNw2ng8fqCOLEKvzkTa'),
+(29, 4, '6w6sLIRt2CsFSWO9ZCSoNkQZKssU5jCoDCINV94o24Odsp0M42x0FuhT0SLeAQsYQbSi73eXrJhzQW2PTryK65hRKa1kIYXHdXkX'),
+(30, 4, 'nnFToLK1Pq981sOXpxBaXAyB6dEObfcmdmlbwEGud0NoCmPWRCxEwVXXfpuKnwhWX5TKS88b6Jyg2NI2X1cHj3Mhqf8hESjo2otZ'),
+(31, 4, 'hcXhSanWCkTDqKS1LggV9lok3wMTvBQQc0b5bNsmWg9H5HLdAjxlASssmSUcAumKG5MygZbI2Ue51YpUE9l95tyB6xECbzPwxU3i'),
+(32, 4, 'sBzac0hIdHpq0sR3vjbK5DtRaN0un1h99C40YZraLKIIVTsrsZJsfm0myYuzkIlaqJgLTTRN4ZxgQpJS5ti4d5uIVcc7g3ZlhA4a'),
+(33, 4, '0ZisppQaSmdXJiFKMqKkjsVdV8m2Dnnjgra7MPHH6QW6Da9ucOUIdOJA9ONNUGfYS5jqpd4wJoiFMBlRIHcOtrTkQx6Xca9GRvng'),
+(34, 4, 'WQJlg0NoIdHXeRirgdsl0rILEsZalYL7l0G9TYd0QfWLcdAnt4efx4KdWIsqT41ANV7UsxHows5pm0iDg7UUJNs6N4NiNjsdiaFg'),
+(35, 4, 'rZqY0XPnZ0YCiDX7BFJokiXsw5d4HuFhpEs1u9c1csAaU2D3cKu9qvcLsi1Dxs2ioxt0RB519r5dvcimkKdBbo7RcUMn1n1fzcVH'),
+(36, 4, '4YwjEYY79IJDnCquKcPLdAMWYi0rdJEaJ54G8f9B7or2LvCi2fYNC74jsgSj0QmJ5RTtCFu32jULeDn2KgsOesfd9LbG53lKYVht'),
+(37, 4, 'KVpb1dsAAYUsZNycZkGNg0cl6YZdzhLgTvLfbpzYhpIULRDFz4JqEXlgX4PCNAXpad4HBmitiJjSM3ObqiVt3ZoNPM6pvsUpDjIP'),
+(38, 4, 'VdgDc0niATuaYrgf6usfDwEK36uJAldL9Xi0JWgVqJrdlym6W0idbc2sQuZdCuQfiHtOV5OAv7jhomVlJ8yDtdQDqdZV8G6GmIAx'),
+(39, 4, 'wsS5Js9BVd0Xj3CNHwHWdsQVWEsEaOsYKyZbK9vEfGoo6dRWnJ8lQIZseU0SsX11XIBrtOYtM5IPwhIpVP6JBB9t4RqAbLwfsE0s'),
+(40, 4, 'dAuIzjVRyaRXqyZssVTu37H5mKneCCkEAnv7EHdXAGossLiROp7W5lbRn31jJAksPOAvmMquRvDwpvzep3qP5eRQbMOKmWGyJcHG'),
+(41, 4, 'zrKONVfH45AIyRdlAdsLzwShjs0hlr0DVsJUtAGWD9eshJeh3qtUh3LDTwSC9yeAegGBTys3tsg0szWhEdk1HjFcHhrOIqDEjkdY'),
+(42, 4, '6os2TY9qr9mdKseFw1tNxOP7rChHxW2DdPcU7DgsBEwOjjGqLFNbL1Np9CdAyRX7bsThXqUdByDxE6EzPdIqboMBNy4FVsUr93Rf'),
+(43, 4, '4rsLgvpsIbKN1L2KARcSjSpvG1szaCeZow8Ds9X4YaAJYy7d4v77slUS9Z9O8fweuStebURdYKXZk539l8gdn6u1arFwGdHPt0Ph'),
+(44, 4, 'nxM3Yi5XrLoD7ndfbewz18sDKw66QjswHGIEKagwTlNASZtQ4dSslv3M94Vd8mcWGmOO0FgUUKsVyHQnbyEjQT5IH6ehUUlqt5Su'),
+(45, 4, 'WoJhcN3S7mAtQh6W0Zr9aY8sakxcGFEsCtByFXVasgezsm2zCzdG3Tm6t5dLsGssn1MGppsK8edjtCk4F88mWJ4awpN6RBnayyyq'),
+(46, 4, 'gyhEzmXgLc7jZdcURUT0PkE9pdsRz2UlyNsxkMi1vcb6mHo3cH09ACgiEao3sZUXHREh6Hg5eP9v0Y3dI8YOp2pZC1PjNCzfwzPf'),
+(47, 4, 'mmkslgUDdRdsjZ5MARb0UzwAUgCMjIba6vfampUCTBdmarRRxkQN4iTB4D5vH1kNp4yprsWH6zCld9zs91zEFHaHH1PHtVbug85v'),
+(48, 4, 'dtJ2suMYe8sAftaZG3ksIXfVwoupZED9jEkSNdeG6ugDAjMafJlcJKLE2PgDkXydR0svMaqS1CBMYETxdHf9stI0kUOuZJ0vk4v5'),
+(49, 10, 'dMsOWsgQxydqYeTwKMyZJPWRdbmHozOKSssV4e15QBUCC1diwis1szdIlGIh0sGmt0YDQsqBoQpAlMHjJsazzaqow9CFzdDvtSoA'),
+(50, 10, 'PBsdSaShfdyNhOuMTTiOkVg08nHsG04n3moksdhsIhBXTEUNEF7ltksWds7Qs7sAwAL23OoXzcljFUF7UFcdMrZjUIBt2cWusoiG'),
+(51, 13, 'ko0BdM2aY17C5PFTSdqBE2pXxh08yVxakowKatIcuqAdsJmPmGPayR6EnJ70ZwNZQAceV393C0r75rl9Bt8g7Ncnw91CNd9MBd5u');
 
 -- --------------------------------------------------------
 
@@ -234,8 +223,13 @@ CREATE TABLE `pendaftar` (
 --
 
 INSERT INTO `pendaftar` (`id_pendaftar`, `nama`, `alamat`, `no_hp`, `ktp`, `foto`, `email`, `password`) VALUES
-(2, 'Endip Yus Fauzi', 'gamping', '0833443234', '23324343', NULL, 'fauzi_dotmail@fauzi_dotmail.com', 'bb0be000476ed191977039580c72368b'),
-(4, 'Kelvin', 'gamping', NULL, NULL, NULL, 'kelvin@yahoo.co.id', '202cb962ac59075b964b07152d234b70');
+(4, 'Kelvin', 'gamping', NULL, NULL, NULL, 'kelvin@yahoo.co.id', '202cb962ac59075b964b07152d234b70'),
+(7, 'yusug', 'ghhhhhh', NULL, NULL, NULL, 'y@yahoo.com', '202cb962ac59075b964b07152d234b70'),
+(8, 'bondan', 'ryghjjhh', '87788867', '45788667', NULL, 'bon@yahoo.com', '202cb962ac59075b964b07152d234b70'),
+(9, 'Noval', 'hnbbnb', '6787677', '46766u', NULL, 'noval@yahoo.com', '202cb962ac59075b964b07152d234b70'),
+(10, 'Yusuf', 'bantul', '0865543356', '12345678', NULL, 'yusuf@yahoo.com', '202cb962ac59075b964b07152d234b70'),
+(12, 'Endip Yus Fauzi', 'gamping', '0833443234', '23324343', NULL, 'fauzi_dotmail@fauzi_dotmail.com', '202cb962ac59075b964b07152d234b70'),
+(13, 'Endip Yus Fauzi', 'gamping', '0833443234', '23324343', NULL, 'fauzi_dotmail@yahoo.co.id', '202cb962ac59075b964b07152d234b70');
 
 -- --------------------------------------------------------
 
@@ -315,12 +309,19 @@ INSERT INTO `saran` (`id_saran`, `nama_saran`, `email_saran`, `tlp_saran`, `isi_
 
 CREATE TABLE `temp_reservasi` (
   `id_temp_reservasi` int(11) NOT NULL,
-  `id_kamar` int(11) NOT NULL,
-  `tgl_reservasi_masuk` datetime NOT NULL,
-  `tgl_reservasi_keluar` datetime NOT NULL,
-  `id_pendaftar` int(11) NOT NULL,
+  `id_kamar` int(11) DEFAULT NULL,
+  `tgl_reservasi_masuk` datetime DEFAULT NULL,
+  `tgl_reservasi_keluar` datetime DEFAULT NULL,
+  `id_pendaftar` int(11) DEFAULT NULL,
   `tgl_entry` datetime NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `temp_reservasi`
+--
+
+INSERT INTO `temp_reservasi` (`id_temp_reservasi`, `id_kamar`, `tgl_reservasi_masuk`, `tgl_reservasi_keluar`, `id_pendaftar`, `tgl_entry`) VALUES
+(1, 7, '2022-07-04 00:00:00', '2022-07-05 00:00:00', 10, '2022-07-03 15:28:49');
 
 -- --------------------------------------------------------
 
@@ -428,8 +429,7 @@ ALTER TABLE `saran`
 -- Indexes for table `temp_reservasi`
 --
 ALTER TABLE `temp_reservasi`
-  ADD PRIMARY KEY (`id_temp_reservasi`),
-  ADD UNIQUE KEY `id_pendaftar_dan_kamar_tidak_boleh_sama` (`id_kamar`,`id_pendaftar`) USING BTREE;
+  ADD PRIMARY KEY (`id_temp_reservasi`);
 
 --
 -- Indexes for table `user`
@@ -469,7 +469,7 @@ ALTER TABLE `kelas_kamar`
 -- AUTO_INCREMENT for table `member_token`
 --
 ALTER TABLE `member_token`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=52;
 
 --
 -- AUTO_INCREMENT for table `output_mitrans`
@@ -481,7 +481,7 @@ ALTER TABLE `output_mitrans`
 -- AUTO_INCREMENT for table `pendaftar`
 --
 ALTER TABLE `pendaftar`
-  MODIFY `id_pendaftar` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id_pendaftar` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
 
 --
 -- AUTO_INCREMENT for table `reservasi`
@@ -505,7 +505,7 @@ ALTER TABLE `saran`
 -- AUTO_INCREMENT for table `temp_reservasi`
 --
 ALTER TABLE `temp_reservasi`
-  MODIFY `id_temp_reservasi` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id_temp_reservasi` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `user`
